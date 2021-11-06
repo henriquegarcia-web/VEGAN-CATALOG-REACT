@@ -1,10 +1,11 @@
-# VeganFood - Página de exibição de comidas veganas 
+# VeganFood
+## Página de exibição de comidas veganas 
 
 > Tempo de desenvolvimento: 2 dias
 
 ## Tecnologias
 
-Foi utilizado nesse projeto Styled Components e Rotas (Router)
+Foi utilizado nesse projeto Styled Components e Rotas (Router).
 
 ### `Instruções`
 
